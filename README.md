@@ -1,2 +1,3 @@
 # hello-gyan
-first gyan git project
+the first ever gyan git project
+
